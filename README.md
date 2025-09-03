@@ -1,2 +1,1 @@
-job a
-cv 1
+cv a
